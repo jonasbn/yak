@@ -1,2 +1,2 @@
 # yak
-Overall for the Yak project
+Overall repository for the Yak project
