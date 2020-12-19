@@ -7,9 +7,14 @@ It will only hold the specification but will link to relevant resources and impl
 ## Data File
 
 ## Configuration
+
 ## Implementations
 
 1. [Perl implementation: App::Yak](https://github.com/jonasbn/perl-app-yak)
+
+### Additional Yak Tools
+
+1. [The GitHub Yak Action](https://github.com/jonasbn/github-action-yak), based on the Perl implementation: App::Yak
 
 ## License and Copyright
 
