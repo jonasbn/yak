@@ -1,0 +1,7 @@
+Dependabot
+JSON
+YAML
+Aldendorff
+jonasbn
+filesystem
+SHA
