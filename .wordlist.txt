@@ -5,3 +5,7 @@ Aldendorff
 jonasbn
 filesystem
 SHA
+http
+https
+sha
+gitignore

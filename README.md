@@ -4,7 +4,7 @@ This is the Yak specification v.0.1.
 
 This repository is the overall Yak specification repository, it's goal is to outline the Yak specification.
 
-The Yak specification outlines the requiresments for a tool aimed at assisting in maintenance across repositories. It is a supplement to tools like [Dependabot] and [Renovate], it is however not as advanced at this time, which is reflected in this specification.
+The Yak specification outlines the requirements for a tool aimed at assisting in maintenance across repositories. It is a supplement to tools like [Dependabot] and [Renovate], it is however not as advanced at this time, which is reflected in this specification.
 
 Yak is not intended to be language specific, it is aimed at assisting with all of the files, which are not related to a certain language.
 
