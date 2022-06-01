@@ -104,7 +104,7 @@ It contains a JSON structure with the following format.
 
 ```json
 {
-    'filename' => boolean | checksum | filename
+    'filename' => boolean | checksum | filename | URL
 }
 ```
 
