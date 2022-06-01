@@ -102,9 +102,9 @@ The data file is named: `.yaksums.json`
 
 It contains a JSON structure with the following format.
 
-```json
+```text
 {
-    'filename' => boolean | checksum | filename | URL
+    filename => boolean | checksum | filename | URL
 }
 ```
 
