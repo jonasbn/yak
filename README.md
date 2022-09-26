@@ -164,6 +164,8 @@ Yak and related works are (C) by Jonas B., (jonasbn) 2018-2022
 - [Dependabot]
 - [gitignore]
 - [JSON.org][JSON]
+- [JSON Schema]
+- [YAML.org][YAML]
 - [Renovate]
 - [sha256sum man page][sha256sum]
 
