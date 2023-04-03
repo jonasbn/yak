@@ -126,19 +126,19 @@ A commonly available tool to calculate the SHA256 checksum is: `sha256sum`.
 
 ## Outcome Matrix
 
-| Type     | File        | Success  | Failure      | Note                |
-|----------|-------------|----------|--------------|---------------------|
-| Boolean  | Present     | Present  |              |                     |
-| Boolean  | Not Present |          | Not present  |                     |
-| File     | Present     | Matching |              | file://             |
-| File     | Present     |          | Not matching | file://             |
-| File     | Not present |          | Not present  | file://             |
-| Checksum | Present     | Matching |              | SHA256              |
-| Checksum | Present     |          | Not matching | SHA256              |
-| Checksum | Not present |          | Not present  | SHA256              |
-| URL      | Present     | Matching |              | http:// or https:// |
-| URL      | Present     |          | Not matching | http:// or https:// |
-| URL      | Not present |          | Not present  | http:// or https:// |
+| Type     | File        | Success  | Failure      | Note                    |
+|----------|-------------|----------|--------------|-------------------------|
+| Boolean  | Present     | Present  |              |                         |
+| Boolean  | Not Present |          | Not present  |                         |
+| File     | Present     | Matching |              | file://                 |
+| File     | Present     |          | Not matching | file://                 |
+| File     | Not present |          | Not present  | file://                 |
+| Checksum | Present     | Matching |              | SHA256                  |
+| Checksum | Present     |          | Not matching | SHA256                  |
+| Checksum | Not present |          | Not present  | SHA256                  |
+| URL      | Present     | Matching |              | `http://` or `https://` |
+| URL      | Present     |          | Not matching | `http://` or `https://` |
+| URL      | Not present |          | Not present  | `http://` or `https://` |
 
 In addition different error scenarios are left up to the implementation.
 
